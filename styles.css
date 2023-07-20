@@ -14,14 +14,6 @@
     background-color: #333;
   }
   
-  /* Center all text in the middle of the page */
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-  }
-  
   /* Additional styling for specific elements can be added below */
   
   /* Example: Center heading elements */

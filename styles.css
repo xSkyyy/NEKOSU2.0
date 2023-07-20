@@ -23,9 +23,10 @@ body {
 }
 
 a {
-    color: inherit; /* Use the parent element's text color */
+    color: white; /* Use the parent element's text color */
     text-decoration: none; /* Remove underline */
     cursor: pointer; /* Change cursor to indicate it's clickable */
+    font-size: 35px;
 }
 
 

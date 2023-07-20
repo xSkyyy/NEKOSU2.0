@@ -27,18 +27,9 @@ a {
     color: white; /* Use the parent element's text color */
     text-decoration: none; /* Remove underline */
     cursor: pointer; /* Change cursor to indicate it's clickable */
+    text-align: center;
     font-size: 35px;
 }
 
 
-/* Additional styling for specific elements can be added below */
 
-/* Example: Center heading elements */
-h1, h2, h3, h4, h5, h6, a {
-  text-align: center;
-}
-
-/* Example: Center a specific class */
-.centered-text {
-  text-align: center;
-}

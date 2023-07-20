@@ -1,0 +1,36 @@
+/* Import Comfortaa font */
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('comfortaa.ttf') format('truetype');
+  }
+  
+  /* Apply Comfortaa font to all text */
+  body {
+    font-family: 'Comfortaa', sans-serif;
+  }
+  
+  /* Set dark grey background for the page */
+  body {
+    background-color: #333;
+  }
+  
+  /* Center all text in the middle of the page */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Additional styling for specific elements can be added below */
+  
+  /* Example: Center heading elements */
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+  }
+  
+  /* Example: Center a specific class */
+  .centered-text {
+    text-align: center;
+  }
+  
